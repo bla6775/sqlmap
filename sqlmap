@@ -1,0 +1,7 @@
+"# sqlmap" >> README.md 
+git init 
+إضافة README.md 
+git الالتزام -m "الالتزام الأول" 
+git remote add origin https://github.com/bla6775/sqlmap.git
+ git push -u origin master
+                
